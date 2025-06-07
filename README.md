@@ -9,6 +9,9 @@ Predict sales for Rossmann stores using machine learning. This project includes:
 - Random Forest regression model
 - Kaggle submission pipeline
 
+## 📂 Dataset
+The dataset is available on [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales). 
+
 ## 📊 Results
 - **RMSE**: [Your score] (Kaggle submission)
 - **Key Insights**: [Briefly mention top findings, e.g., "Promotions boost sales by X%"]
